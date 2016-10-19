@@ -1,7 +1,7 @@
 ___
 ##Oyster Cards!
 ___
-1[](http://i.imgur.com/V6avF.jpg)
+![Oyster Card](http://i.imgur.com/V6avF.jpg)
 ___
 **User Stories**
 ```
