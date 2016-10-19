@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-group :test do
+group :development, :test do
   gem "rspec"
   gem "rake"
   gem "coveralls", require: false
