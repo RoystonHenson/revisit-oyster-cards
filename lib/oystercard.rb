@@ -13,4 +13,8 @@ ERR_EXCEED_MAX_BALANCE = "The card balance cannot exceed £90"
     @balance += amount
   end
 
+  def deduct(amount)
+    @balance -= amount  
+  end
+
 end
